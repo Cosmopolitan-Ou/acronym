@@ -1,5 +1,5 @@
 # Acronym
-This is an Acronym dictionary search tool
+This is an Acronym dictionary search tool.
 
 To use it, simply:
 <li> 1. Make sure python version==3.9.7, other versions are not gurenteed to work. </li>
