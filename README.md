@@ -8,5 +8,5 @@ To use it, simply:
 <li> 3. Put <strong>Acronym dictionary.xlsx</strong> into root folder. </li>
 <li> 4. Run the app. </li>
 
-Note: if pip install encounter connection problem, try to add CRAN from tsinghua mirror by <strong>pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple</strong>, then try <strong>step 2</strong> again.
+</br>Note: if pip install encounter connection problem, try to add CRAN from tsinghua mirror by <strong>pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple</strong>, then try <strong>step 2</strong> again.
 
