@@ -10,8 +10,8 @@ Advantages compared to Excel file:
 </br>To use it, simply:
 <li> 1. Make sure python version==3.9.7, other versions are not tested thus not gurenteed to work. </li>
 <li> 2. Change directory to root folder by <strong>cd REPLACE_WITH_YOUR_PATH_TO_ROOT_FOLDER</strong>. </li>
-<li> 3. Install required packages in requirements.txt, recommend to create a new virtual environment for it. </li>
-<li>  Command: > pip install -r requirements.txt</li>
+<li> 3. Install required packages in requirements.txt, recommend to create a new virtual environment for it. Command: </li>
+    > pip install -r requirements.txt
 <li> 4. Put <strong>Acronym dictionary.xlsx</strong> into root folder. </li>
 <li> 5. Run the app by typing <strong>python app.py</strong> in console, make sure the location is set to root folder and python is installed correctly.</li>
 
