@@ -1,7 +1,12 @@
 # Acronym
 This is an Acronym dictionary search tool.
 
-To use it, simply:
+Advantages compared to Excel file:
+- Ability to show all mapped explanations.
+- Case insensitive.
+- Only 1st column is used as search key, to avoid mis-searching fields.
+
+</br>To use it, simply:
 <li> 1. Make sure python version==3.9.7, other versions are not gurenteed to work. </li>
 <li> 2. Change directory to root folder by <strong>cd REPLACE_WITH_YOUR_PATH_TO_ROOT_FOLDER</strong>. </li>
 <li> 3. Install required packages in requirements.txt, recomend to create a new virtual environment for it. </li>
