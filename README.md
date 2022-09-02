@@ -5,6 +5,7 @@ Advantages compared to Excel file:
 - Ability to show all mapped explanations.
 - Case insensitive.
 - Only 1st column is used as search key, to avoid mis-searching fields.
+- No need to arrange records by first-starting-letter.
 
 </br>To use it, simply:
 <li> 1. Make sure python version==3.9.7, other versions are not gurenteed to work. </li>
