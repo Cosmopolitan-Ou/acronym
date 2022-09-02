@@ -6,6 +6,7 @@ Advantages compared to Excel file:
 - Case insensitive.
 - Only 1st column is used as search key, to avoid mis-searching fields.
 - No need to arrange records by first-starting-letter.
+- Memory size for dictionary is weight less. For example, the size of current Excel file is 78.1 kb, where the dictionary with the same information is only 18.52 kb.
 
 </br>To use it, simply:
 <li> 1. Make sure python version==<strong>3.9.7</strong>, other versions are not tested thus not gurenteed to work. </li>
