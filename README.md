@@ -17,4 +17,4 @@ Advantages compared to Excel file:
 <li> 7. Run the app by typing <code>python app.py</code> in <strong>Windows Command Prompt</strong>, make sure the location is set to root folder and python is installed correctly.</li>
 <li> 8. Copy the link showed up in log, normally it will be <code>http://127.0.0.1:8050/</code>, then paste it in browser and hit enter -> There you go!</li>
 
-</br>Note: if package installation process (step 2) encounters connection problem, try to add CRAN from <strong>tsinghua mirror</strong> by <code>pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple</code>, then try <strong>step 2</strong> again.
+</br>Note: if package installation process (step 2) encounters connection problem, try to add CRAN from <strong>tsinghua mirror</strong> by <code>pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple</code>, then try step 2 again.
