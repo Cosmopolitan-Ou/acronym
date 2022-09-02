@@ -1,5 +1,5 @@
 # Acronym
-This is an Acronym dictionary search tool.
+This is an acronym dictionary search tool.
 
 Advantages compared to Excel file:
 - Ability to show all mapped explanations.
