@@ -15,4 +15,4 @@ Advantages compared to Excel file:
 <li> 5. Put <strong>Acronym dictionary.xlsx</strong> into root folder. </li>
 <li> 6. Run the app by typing <code>python app.py</code> in console, make sure the location is set to root folder and python is installed correctly.</li>
 
-</br>Note: if pip install encounter connection problem, try to add CRAN from tsinghua mirror by <code>pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple</code>, then try <strong>step 2</strong> again.
+</br>Note: if package installation process encounters connection problem, try to add CRAN from <strong>tsinghua mirror</strong> by <code>pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple</code>, then try <strong>step 2</strong> again.
